@@ -1,0 +1,21 @@
+body
+{
+    background-size: cover;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+.note2
+{
+    font-size: 15px;
+    color: black;
+}
+canvas
+{
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px pink;
+}
